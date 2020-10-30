@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -21,12 +21,12 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pin-Yu Chen"
 description              : "My Personal Webpage!"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://pychen06.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/pychen06?tab=repositories
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Home"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -93,30 +93,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "喜歡程式、熱愛探索"
+  name             : "陳品伃 Pin-Yu Chen"
+  avatar           : "/assets/images/bio-pic2.jpg"
+  bio              : ""
   location         : "New Taipei City, Taiwan (R.O.C.)"
-  email            :
+  email            : "pinyu.eed04@nctu.edu.tw"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "pinyu.eed04@nctu.edu.tw"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      url: "https://pychen06.github.io"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100000449801945"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/pychen06?tab=repositories"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/yuyu008648/?hl=zh-tw"
 
 # Site Footer
 footer:
@@ -126,7 +126,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url: 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:

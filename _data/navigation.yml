@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Curriculum Vitae"
+    url: "cv"
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /project/
