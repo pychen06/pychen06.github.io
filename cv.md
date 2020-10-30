@@ -23,6 +23,9 @@ TemPEST: Soft Template-Based Personalized EDM Subject Generation through Collabo
 AAAI 2020.
 [paper](/assets/attachment/AAAI-ChenY.1087.pdf)
 
+### Teaching Experience
+TA for the course *Discrete Math (NCTU)* in Fall 2018 and Fall 2019.
+
 ### Extracurricular Activities
 * Team leader of women's volleyball team of department of ECE, NCTU.
 * Member of administration section in student association of department of ECE, NCTU.
