@@ -5,7 +5,7 @@ date:   2020-10-28 23:30:04 +0800
 author_profile: true
 ---
 
-## **Master's Thesis**
+## **Master's Thesis -- Multi-Source Review Package Recommendation**
 keywords: Recommendation, Deep Learning, Multi-Source Data
 ![](/assets/images/thesis_intro.png)
 
