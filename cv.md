@@ -16,6 +16,7 @@ author_profile: true
 * Coding: C/C++, Python, Matlab
 * Deep Learning Framework: PyTorch, Keras
 * Recommendation System Model: Matrix Factorization, Collaborative Filtering, Factorization Machine, Autoencoder, VAE...
+* Other: Digital Image Processing (OpenCV)、basic understanding of SQL
 
 ### Publication
 Yu-Hsiu Chen, **Pin-Yu Chen**, Hong-Han Shuai, and Wen-Chih Peng. 
