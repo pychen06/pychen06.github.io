@@ -25,4 +25,5 @@ Collaborator: Yu-Hsiu Chen
 這項研究目的是希望能根據使用者的特性，自動生成會讓他感興趣的標題。
 結合了文章摘要、推薦系統的任務，完成個人化標題生成。
 我負責的部分在推薦系統的建立與兩個任務的結合。
-標題生成的範例如上表，也可以參考我們的[paper](/assets/attachment/AAAI-ChenY.1087.pdf)。
+標題生成的範例如上表，User 1/2/3為我們的模型生成的結果。
+也可以參考我們的[paper](/assets/attachment/AAAI-ChenY.1087.pdf)。
