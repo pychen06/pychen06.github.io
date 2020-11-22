@@ -28,5 +28,5 @@ AAAI 2020.
 TA for the course *Discrete Math (NCTU)* in Fall 2018 and Fall 2019.
 
 ### Extracurricular Activities
-* Team leader of women's volleyball team of department of ECE, NCTU.
+* Leader of women's volleyball team of department of ECE, NCTU.
 * Member of administration section in student association of department of ECE, NCTU.
